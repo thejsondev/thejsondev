@@ -8,6 +8,8 @@
 - 📫 How to reach me **asnazokkar@gmail.com**
 
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
