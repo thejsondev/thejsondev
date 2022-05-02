@@ -8,8 +8,6 @@
 - 📫 How to reach me **asnazokkar@gmail.com**
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thejsondev)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
