@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Json Dev</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/thejsondev/github-readme-stats)
+
 <h3 align="center">A Full-Stack Developer from germany</h3>
 
 - 🌱 I’m currently learning **Golang**
