@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/thejsondev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejsondev)](https://github.com/thejsondev/github-readme-stats)
 
 <h3 align="center">A Full-Stack Developer from germany</h3>
 
