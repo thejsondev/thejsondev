@@ -1,4 +1,4 @@
-<h3 align="center">I'm Json Dev</h3>
+<h1 align="center">I'm Json Dev</h1>
 <h4 align="center">Full-Stack Developer</h4>
 
 - 🌱 I’m currently learning **Golang**
@@ -10,8 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/thejsondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thejsondev" height="30" width="40" /></a>
-<a href="https://twitter.com/thejsondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thejsondev" height="30" width="40" /></a>
+<a href="wa.me/4915774239103" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="thejsondev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asnazokkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asnazokkar" height="30" width="40" /></a>
 <a href="https://instagram.com/json.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="json.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/the json dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the json dev" height="30" width="40" /></a>
