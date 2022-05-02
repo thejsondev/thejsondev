@@ -1,6 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejsondev)](https://github.com/thejsondev/github-readme-stats)
-
-<h3 align="center">A Full-Stack Developer from germany</h3>
+<h3 align="center">I'm Json Dev</h3>
+<h4 align="center">Full-Stack Developer</h4>
 
 - 🌱 I’m currently learning **Golang**
 
