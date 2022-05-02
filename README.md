@@ -1,10 +1,10 @@
 <h1 align="center">I'm Json Dev</h1>
 <h4 align="center">Full-Stack Developer</h4>
 
-⌨|Hacker
-💻|Fullstack developer
-📟|IOT Developer
-🧠|AI researcher
+- ⌨|Hacker
+- 💻|Fullstack developer
+- 📟|IOT Developer
+- 🧠|AI researcher
 
 - 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
 
