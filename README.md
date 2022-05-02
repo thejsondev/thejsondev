@@ -1,6 +1,11 @@
 <h1 align="center">I'm Json Dev</h1>
 <h4 align="center">Full-Stack Developer</h4>
 
+⌨|Hacker
+💻|Fullstack developer
+📟|IOT Developer
+🧠|AI researcher
+
 - 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
 
 - 💬 Ask me about <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/><img align="center" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/><img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry pi"/>
