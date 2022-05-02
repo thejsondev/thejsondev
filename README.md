@@ -8,9 +8,6 @@
 - 📫 How to reach me **asnazokkar@gmail.com**
 
 
-[github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/thejsondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thejsondev" height="30" width="40" /></a>
